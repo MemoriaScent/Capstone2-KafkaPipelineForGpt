@@ -1,0 +1,8 @@
+bcrypt==4.1.2
+black==24.2.0
+kafka-python==2.0.2
+msgpack==1.0.8
+psycopg==3.1.18
+psycopg-binary==3.1.18
+rich==13.7.1
+PyPika==0.48.9
