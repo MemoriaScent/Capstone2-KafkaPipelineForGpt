@@ -1,4 +1,4 @@
-from . import methods
+import methods
 from rpc.message_broker import MessageBroker
 
 
